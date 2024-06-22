@@ -1,6 +1,6 @@
 # Story Generator and Reviewer with OpenAI API
 
-This project utilizes OpenAI's API to generate and review stories based on user input. It provides an interface powered by Gradio for easy interaction.
+This project utilizes OpenAI's API to generate stories and review stories based on user input. It provides an interface powered by Gradio for easy interaction.
 
 ## Overview
 
